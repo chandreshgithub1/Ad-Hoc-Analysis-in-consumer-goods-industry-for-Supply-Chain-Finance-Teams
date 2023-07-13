@@ -32,7 +32,7 @@ Link to [Presentation](https://codebasics.io/challenge/codebasics-resume-project
 6. Top n products per division by qty sold
 
 
-## Creation of various views: [_(Click Here)_]()
+## Creation of various views: [_(Click Here)_](https://github.com/chandreshgithub1/Ad-Hoc-Analysis-in-consumer-goods-industry-for-Supply-Chain-Finance-Teams/blob/main/Views.sql)
 
 1. Sales preinv discount
    
